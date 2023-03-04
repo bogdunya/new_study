@@ -8,26 +8,5 @@
 	echo "World";
 	echo "WEEEEE";
 	
-	echo "New feature";
-	echo "New feature";
-	echo "New feature";
-	echo "New feature";
-	echo "New feature";
-	echo "New feature";
-	echo "New feature";
-	echo "New feature";
-	echo "New feature";
-	echo "New feature";
-	echo "New feature";
-	echo "New feature";
-	echo "New feature";
-	echo "New feature";
-	echo "New feature";
-	echo "New feature";
-	echo "New feature";
-	echo "New feature";
-	echo "New feature";
-	echo "New feature";
-	echo "New feature";
-	echo "New feature";
+
 	#New str
