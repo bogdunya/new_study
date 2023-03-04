@@ -1,13 +1,7 @@
 <?php
 
 	echo "NEW STR FOR GIT";
-echo "NEW STR FOR GIT";echo "NEW STR FOR GIT";echo "NEW STR FOR GIT";
-	echo "Hello World";
-	echo "Hi";
-	echo "World";
-	echo "WEEEEE";
-	echo "Hello World";
-	echo "Hi";
+
 	echo "World";
 	echo "WEEEEE";echo "Hello World";
 	echo "Hi";
